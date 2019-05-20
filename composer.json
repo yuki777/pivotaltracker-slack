@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nexylan/slack": "^2.2",
+        "php-http/guzzle6-adapter": "^2.0",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
